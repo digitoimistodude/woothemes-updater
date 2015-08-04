@@ -1,7 +1,7 @@
 {
   "name": "digitoimistodude/woothemes-updater",
   "type": "wordpress-plugin",
-  "description": "A composer repository for WooThemes Helper.",
+  "description": "WooThemes Helper for updating WooThemes plugins and lisences via wp-admin.",
   "homepage": "http://docs.woothemes.com/document/woothemes-helper/",
   "keywords": ["wordpress", "plugin", "woocommerce"],
   "license": "MIT",
@@ -16,6 +16,7 @@
   ],
   "require": {
     "php": ">=5.3.10",
-    "composer/installers": "~1.0"
+    "composer/installers": "~1.0",
+    "digitoimistodude/woothemes-updater": "1.5.9"
   }
 }
