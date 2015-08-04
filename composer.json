@@ -6,6 +6,7 @@
   "keywords": ["wordpress", "plugin", "woocommerce"],
   "license": "MIT",
   "version": "1.5.9",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Roni Laukkarinen",
