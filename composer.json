@@ -12,5 +12,8 @@
       "email": "roni@dude.fi",
       "homepage": "https://www.dude.fi"
     }
-  ]
+  ],
+  "require": {
+      "composer/installers": "~1.0.12"
+  }
 }
