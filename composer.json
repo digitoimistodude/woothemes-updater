@@ -5,12 +5,13 @@
     "homepage": "http://docs.woothemes.com/document/woothemes-helper/",
     "license": "MIT",
     "authors": [
-    {
-      "name": "Roni Laukkarinen",
-      "email": "roni@dude.fi",
-      "homepage": "https://www.dude.fi"
-    }
+      {
+        "name": "Roni Laukkarinen",
+        "email": "roni@dude.fi",
+        "homepage": "https://www.dude.fi"
+      }
     ],
+    "minimum-stability": "dev",
     "type": "wordpress-plugin",
     "require": {
       "php": ">=5.3.2",
