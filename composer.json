@@ -1,21 +1,16 @@
 {
-    "name": "digitoimistodude/woothemes-updater",
-    "description": "A composer repository for WooThemes Helper.",
-    "keywords": ["wordpress", "plugin", "woocommerce"],
-    "homepage": "http://docs.woothemes.com/document/woothemes-helper/",
-    "license": "MIT",
-    "authors": [
-      {
-        "name": "Roni Laukkarinen",
-        "email": "roni@dude.fi",
-        "homepage": "https://www.dude.fi"
-      }
-    ],
-    "minimum-stability": "dev",
-    "type": "wordpress-plugin",
-    "require": {
-      "php": ">=5.3.2",
-      "composer/installers": "v1.0.6",
-      "digitoimistodude/woothemes-updater": "dev-master"
+  "name": "digitoimistodude/woothemes-updater",
+  "description": "A composer repository for WooThemes Helper.",
+  "keywords": ["wordpress", "plugin", "woocommerce"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roni Laukkarinen",
+      "email": "roni@dude.fi",
+      "homepage": "https://www.dude.fi"
     }
+  ],
+  "version": "1.5.9",
+  "require": {
+  }
 }
