@@ -5,7 +5,6 @@
   "homepage": "http://docs.woothemes.com/document/woothemes-helper/",
   "keywords": ["wordpress", "plugin", "woocommerce"],
   "license": "MIT",
-  "minimum-stability": "dev",
   "version": "1.5.9",
   "authors": [
     {
