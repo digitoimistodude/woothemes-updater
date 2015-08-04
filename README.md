@@ -5,15 +5,8 @@ A composer repository for WooThemes Helper. Created because [the original downlo
 
 ## Usage 
 
-Add to your composer.json repositories:
+Add to require:
 
-    {
-      "type": "vcs",
-      "url": "git@github.com:digitoimistodude/woothemes-updater.git"
-    },
-
-Then add to require:
-
-    "digitoimistodude/woothemes-updater": "*"
+    "digitoimistodude/woothemes-updater": "@dev"
 
 After installation you can access the admin screen by going to **Dashboard > WooThemes Helper**.
